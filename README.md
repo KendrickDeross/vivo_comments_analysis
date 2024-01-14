@@ -1,1 +1,2 @@
-# vivo_comments_analysis
+vivo 手机评论抓取情感分析
+数据科学期末作业
